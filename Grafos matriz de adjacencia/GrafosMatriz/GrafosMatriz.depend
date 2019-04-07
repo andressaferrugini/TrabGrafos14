@@ -1,9 +1,32 @@
 # depslib dependency file v1.0
-1446667744 source:c:\users\andressa\documents\grafos matriz de adjacencia\grafosmatriz\main.cpp
+1554599216 source:c:\users\henrique\documents\grafosmatriz\main.cpp
 	<iostream>
+	<fstream>
 
-1554499576 source:c:\users\andressa\documents\grafos matriz de adjacencia\grafosmatriz\src\no.cpp
+1554590565 source:c:\users\henrique\documents\grafosmatriz\src\grafo.cpp
+	"Grafo.h"
+
+1554596014 c:\users\henrique\documents\grafosmatriz\include\grafo.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<vector>
+	<sstream>
 	"No.h"
 
-1554502978 c:\users\andressa\documents\grafos matriz de adjacencia\grafosmatriz\include\no.h
+1554596449 source:c:\users\henrique\documents\grafosmatriz\src\matriz.cpp
+	"Matriz.h"
+	<iostream>
+	<stdlib.h>
+
+1554596362 c:\users\henrique\documents\grafosmatriz\include\matriz.h
+	"Grafo.h"
+
+1554591322 source:c:\users\henrique\documents\grafosmatriz\src\no.cpp
+	"No.h"
+
+1554591357 c:\users\henrique\documents\grafosmatriz\include\no.h
+	<iostream>
+	<stdlib.h>
+	<string>
 
